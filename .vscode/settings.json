@@ -1,0 +1,5 @@
+{
+	"editor.wordWrap": "on",
+	"editor.comments.ignoreEmptyLines": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
+}
